@@ -478,13 +478,6 @@ Pake's development can not be without these Hackers. They contributed a lot of c
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/harboot">
-                    <img src="https://avatars.githubusercontent.com/u/1296040?v=4" width="90;" alt="harboot"/>
-                    <br />
-                    <sub><b>harboot</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/houhoz">
                     <img src="https://avatars.githubusercontent.com/u/19684376?v=4" width="90;" alt="houhoz"/>
                     <br />
@@ -512,8 +505,6 @@ Pake's development can not be without these Hackers. They contributed a lot of c
                     <sub><b>Liusishan</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/piaoyidage">
                     <img src="https://avatars.githubusercontent.com/u/5135405?v=4" width="90;" alt="piaoyidage"/>
@@ -521,6 +512,8 @@ Pake's development can not be without these Hackers. They contributed a lot of c
                     <sub><b>Ranger</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/hetz">
                     <img src="https://avatars.githubusercontent.com/u/820141?v=4" width="90;" alt="hetz"/>
