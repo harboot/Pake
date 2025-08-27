@@ -477,6 +477,13 @@ Pake 的发展离不开这些 Hacker 们，一起贡献了大量能力，也欢�
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/harboot">
+                    <img src="https://avatars.githubusercontent.com/u/1296040?v=4" width="90;" alt="harboot"/>
+                    <br />
+                    <sub><b>harboot</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/houhoz">
                     <img src="https://avatars.githubusercontent.com/u/19684376?v=4" width="90;" alt="houhoz"/>
                     <br />
@@ -504,6 +511,8 @@ Pake 的发展离不开这些 Hacker 们，一起贡献了大量能力，也欢�
                     <sub><b>Liusishan</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/piaoyidage">
                     <img src="https://avatars.githubusercontent.com/u/5135405?v=4" width="90;" alt="piaoyidage"/>
@@ -511,8 +520,6 @@ Pake 的发展离不开这些 Hacker 们，一起贡献了大量能力，也欢�
                     <sub><b>Ranger</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/hetz">
                     <img src="https://avatars.githubusercontent.com/u/820141?v=4" width="90;" alt="hetz"/>
