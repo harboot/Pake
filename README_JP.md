@@ -302,14 +302,21 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/eltociear">
+                    <img src="https://avatars.githubusercontent.com/u/22633385?v=4" width="90;" alt="eltociear"/>
+                    <br />
+                    <sub><b>Ikko Eltociear Ashimine</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
                 <a href="https://github.com/kittizz">
                     <img src="https://avatars.githubusercontent.com/u/62899732?v=4" width="90;" alt="kittizz"/>
                     <br />
                     <sub><b>Kittizz</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/mattbajorek">
                     <img src="https://avatars.githubusercontent.com/u/17235301?v=4" width="90;" alt="mattbajorek"/>
@@ -352,6 +359,8 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Yue Yang</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/harboot">
                     <img src="https://avatars.githubusercontent.com/u/1296040?v=4" width="90;" alt="harboot"/>
@@ -359,8 +368,6 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>harboot</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/lkieryan">
                     <img src="https://avatars.githubusercontent.com/u/187804088?v=4" width="90;" alt="lkieryan"/>
@@ -403,6 +410,8 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>An Li</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/nekomeowww">
                     <img src="https://avatars.githubusercontent.com/u/11081491?v=4" width="90;" alt="nekomeowww"/>
@@ -410,8 +419,6 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Ayaka Neko</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/turkyden">
                     <img src="https://avatars.githubusercontent.com/u/24560160?v=4" width="90;" alt="turkyden"/>
@@ -454,6 +461,8 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Milo</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/princemaple">
                     <img src="https://avatars.githubusercontent.com/u/1329716?v=4" width="90;" alt="princemaple"/>
@@ -461,8 +470,6 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Po Chen</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/beautifulrem">
                     <img src="https://avatars.githubusercontent.com/u/98527099?v=4" width="90;" alt="beautifulrem"/>
@@ -505,6 +512,8 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Liudonghua</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/liusishan">
                     <img src="https://avatars.githubusercontent.com/u/33129823?v=4" width="90;" alt="liusishan"/>
@@ -512,8 +521,6 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Liusishan</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/piaoyidage">
                     <img src="https://avatars.githubusercontent.com/u/5135405?v=4" width="90;" alt="piaoyidage"/>
